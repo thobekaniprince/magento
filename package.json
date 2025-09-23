@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/thobekaniprince/magento#readme",
   "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
     "@playwright/test": "^1.55.1",
-    "@types/node": "^24.5.2"
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2"
   }
 }
